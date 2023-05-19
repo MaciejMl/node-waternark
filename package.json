@@ -1,0 +1,10 @@
+{
+  "name": "node-waternark",
+  "version": "1.0.0",
+  "description": "Add text or image watermark to image",
+  "main": "app.js",
+  "repository": "git@github.com:MaciejMl/node-waternark.git",
+  "author": "MaciejMl <szypki@gmail.com>",
+  "license": "MIT",
+  "private": null
+}
