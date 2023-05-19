@@ -6,5 +6,8 @@
   "repository": "git@github.com:MaciejMl/node-waternark.git",
   "author": "MaciejMl <szypki@gmail.com>",
   "license": "MIT",
-  "private": null
+  "private": null,
+  "dependencies": {
+    "jimp": "^0.22.8"
+  }
 }
